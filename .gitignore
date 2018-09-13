@@ -1,3 +1,4 @@
 *.swp
+*.log
+*.o
 .vscode/
-tmux-client-17206.log
